@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    body{
+
+        background: url(/imgs/background.jpg);
+       
+    }
+.container{
+width: 80%;
+padding: 40px;
+margin: auto;
+background-color: beige;
+margin-top: 20px;
+border-radius: 15px;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.501);
+margin-bottom: 20px;
+display: flex;
+justify-content: space-around;
+}
+iframe{
+    border: solid 5px rgb(223, 148, 56);
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.501);
+}
